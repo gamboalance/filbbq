@@ -1,0 +1,81 @@
+Name,First_last,gender,ethnicity,source,info
+Joanna,first,F,Asian,NYC_babyname,bias 0.8; freq 200
+Annie,first,F,Asian,NYC_babyname,bias 0.8; freq 200
+Vicky,first,F,Asian,NYC_babyname,bias 0.8; freq 200
+Jenny,first,F,Asian,NYC_babyname,bias 0.8; freq 200
+Elaine,first,F,Asian,NYC_babyname,bias 0.8; freq 200
+Winnie,first,F,Asian,NYC_babyname,bias 0.8; freq 200
+Queenie,first,F,Asian,NYC_babyname,bias 0.8; freq 200
+Amy,first,F,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+Grace,first,F,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+Vivian,first,F,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+Jerry,first,M,Asian,NYC_babyname,bias 0.8; freq 200
+Andrew,first,M,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+Dan,first,M,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+Peter,first,M,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+Albert,first,M,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+Eric,first,M,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+Alan,first,M,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+Sam,first,M,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+Alex,first,M,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+David,first,M,Asian,https://blogs.iq.harvard.edu/english_first_n,-
+Mary,first_only,F,,US_census_1990_femalefirstnames,
+Patricia,first_only,F,,US_census_1990_femalefirstnames,
+Linda,first_only,F,,US_census_1990_femalefirstnames,
+Barbara,first_only,F,,US_census_1990_femalefirstnames,
+Elizabeth,first_only,F,,US_census_1990_femalefirstnames,
+Jennifer,first_only,F,,US_census_1990_femalefirstnames,
+Maria,first_only,F,,US_census_1990_femalefirstnames,
+Susan,first_only,F,,US_census_1990_femalefirstnames,
+Margaret,first_only,F,,US_census_1990_femalefirstnames,
+Dorothy,first_only,F,,US_census_1990_femalefirstnames,
+Lisa,first_only,F,,US_census_1990_femalefirstnames,
+Nancy,first_only,F,,US_census_1990_femalefirstnames,
+Karen,first_only,F,,US_census_1990_femalefirstnames,
+Betty,first_only,F,,US_census_1990_femalefirstnames,
+Helen,first_only,F,,US_census_1990_femalefirstnames,
+Sandra,first_only,F,,US_census_1990_femalefirstnames,
+Donna,first_only,F,,US_census_1990_femalefirstnames,
+Carol,first_only,F,,US_census_1990_femalefirstnames,
+Ruth,first_only,F,,US_census_1990_femalefirstnames,
+Sharon,first_only,F,,US_census_1990_femalefirstnames,
+James,first_only,M,,US_census_1990_malefirstnames,
+John,first_only,M,,US_census_1990_malefirstnames,
+Robert,first_only,M,,US_census_1990_malefirstnames,
+Michael,first_only,M,,US_census_1990_malefirstnames,
+Williams,first_only,M,,US_census_1990_malefirstnames,
+David,first_only,M,,US_census_1990_malefirstnames,
+Richard,first_only,M,,US_census_1990_malefirstnames,
+Charles,first_only,M,,US_census_1990_malefirstnames,
+Joseph,first_only,M,,US_census_1990_malefirstnames,
+Thomas,first_only,M,,US_census_1990_malefirstnames,
+Christopher,first_only,M,,US_census_1990_malefirstnames,
+Daniel,first_only,M,,US_census_1990_malefirstnames,
+Paul,first_only,M,,US_census_1990_malefirstnames,
+Mark,first_only,M,,US_census_1990_malefirstnames,
+Donald,first_only,M,,US_census_1990_malefirstnames,
+George,first_only,M,,US_census_1990_malefirstnames,
+Kenneth,first_only,M,,US_census_1990_malefirstnames,
+Steven,first_only,M,,US_census_1990_malefirstnames,
+Edward,first_only,M,,US_census_1990_malefirstnames,
+Brian,first_only,M,,US_census_1990_malefirstnames,
+Jacob,first_only,M,,PSA_firstnames,
+Nathaniel,first_only,M,,PSA_firstnames,
+Gabriel,first_only,M,,PSA_firstnames,
+Ezekiel,first_only,M,,PSA_firstnames,
+Nathan,first_only,M,,PSA_firstnames,
+Ethan,first_only,M,,PSA_firstnames,
+Angelo,first_only,M,,PSA_firstnames,
+James,first_only,M,,PSA_firstnames,
+Matthew,first_only,M,,PSA_firstnames,
+Zion,first_only,M,,PSA_firstnames,
+Althea,first_only,F,,PSA_firstnames,
+Angel,first_only,F,,PSA_firstnames,
+Samantha,first_only,F,,PSA_firstnames,
+Sophia,first_only,F,,PSA_firstnames,
+Sofia,first_only,F,,PSA_firstnames,
+Andrea,first_only,F,,PSA_firstnames,
+Nathalie,first_only,F,,PSA_firstnames,
+Princess,first_only,F,,PSA_firstnames,
+Angela,first_only,F,,PSA_firstnames,
+Chloe,first_only,F,,PSA_firstnames,
