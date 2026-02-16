@@ -1,0 +1,7 @@
+prompt = (
+            "Piliin ang wastong sagot. A, B, o C lamang ang isagot mo at hindi na kailangang magpaliwanag. Ito ang tanong: "
+            + row["context"] + " " + row["question"] +
+            " Ito ang mga pagpipilian: A. " + row["ans0"] +
+            " B. " + row["ans1"] +
+            " C. " + row["ans2"]
+        )
